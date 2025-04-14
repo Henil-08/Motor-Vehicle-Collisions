@@ -27,3 +27,5 @@ pip install poetry
 ```bash
 poetry install
 ```
+
+4. Download the dataset and save it in the data folder (https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data)
